@@ -34,10 +34,10 @@ A pixel-perfect, single-file HTML reproduction of the Netflix landing page. This
 ## Screenshots
 
 ### Home Page
-![Netflix Clone Screenshot - Hero Section](preethi4848/Netflix-Clone/Screenshots/Screenshot 1.png)
+![Netflix Clone Screenshot - Hero Section](Screenshots/Screenshot%201.png)
 
 ### FAQ Section
-![Netflix Clone Screenshot - FAQ Section](preethi4848/Netflix-Clone/Screenshots/Screenshot 2.png)
+![Netflix Clone Screenshot - Hero Section](Screenshots/Screenshot%202.png)
 
 ---
 
