@@ -34,10 +34,10 @@ A pixel-perfect, single-file HTML reproduction of the Netflix landing page. This
 ## Screenshots
 
 ### Home Page
-![Netflix Clone Screenshot - Hero Section](./screenshots/home-hero.png)
+![Netflix Clone Screenshot - Hero Section](preethi4848/Netflix-Clone/Screenshots/Screenshot 1.png)
 
 ### FAQ Section
-![Netflix Clone Screenshot - FAQ Section](./screenshots/home-faq.png)
+![Netflix Clone Screenshot - FAQ Section](preethi4848/Netflix-Clone/Screenshots/Screenshot 2.png)
 
 ---
 
@@ -55,13 +55,16 @@ No external frameworks or libraries were used to maintain a single-file structur
 
 **Clone this repository**
 
+```markdown
 git clone https://github.com/preethi4848/Netflix-Clone.git
-
+```
+```markdown
 cd Netflix-Clone
-
+```
 open index.html  # or double click to open in browser
-Future Improvements
 
-Add voice command input for the AI Assistant.
-Enhance recommendation logic with real-time API.
-Add a login page or user profile simulation.
+## Future Improvements
+
+1. Add voice command input for the AI Assistant.
+2. Enhance recommendation logic with real-time API.
+3. Add a login page or user profile simulation.
